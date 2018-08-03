@@ -39,18 +39,10 @@ Playing around with Git
 ---
 ## Some Vocab
 
-<<<<<<< HEAD
   * **HEAD** - current branch. Your working tree is normally derived from the state of the tree referred to by HEAD, it's a reference to one of the heads in your repository
   * **head** - A named reference to the commit at the tip of a branch
   * **index** - A collection of files with stat information, whose contents are stored as objects. The index is a stored version of your working tree.
   * **origin** - shorthand name for the remote repo that project was cloned from, it's used instead of original repo's URL, makes referencing easier
-=======
-  * **Origin** - shorthand name for the remote repo that project was cloned from, it's used instead of original repo's URL, makes referencing easier
-  * **HEAD** - current branch. Your working tree is normally derived from the state of the tree referred to by HEAD, it's a reference to one of the heads in your repository
-  * **head** - A named reference to the commit at the tip of a branch
-  * **index** - A collection of files with stat information, whose contents are stored as objects. The index is a stored version of your working tree.
-  * **origin** - default upstream repository, most projects have at least one upstream project they track, origin is used for that purpose
->>>>>>> c8d618717983e4c18c1d4ee92d121c3b0ae2d1c0
   * **pull** - to fetch it and merge a branch
   * **push** - get the branch’s head ref from a remote repository, find out if it is an ancestor to the branch’s local head ref, and in that case, putting all objects, which are reachable from the local head ref, and which are missing from the remote repository, into the remote object database, and updating the remote head ref
   * **stash entry** - object used to temporarily store contents of a dirty working directory and the index for future reuse
