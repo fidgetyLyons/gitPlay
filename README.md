@@ -13,6 +13,10 @@ Playing around with Git
   * git commit --amend //replace tip of current branch by creating new commit
   * git status //current state of working tree
   * git log //log of commits
+  * branch work
+    * git checkout [branchName] //change branches
+    * git branch [branchName] //create branch
+    * git branch -d [branchName] //delete branch 
 
   **Doug's First Commit procedure :**
   * git init
