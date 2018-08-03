@@ -14,7 +14,7 @@ Playing around with Git
   * git status //current state of working tree
   * git log //log of commits
 
-  **Doug's procedure :**
+  **Doug's First Commit procedure :**
   * git init
   * [make changes]
   * git add > commit
