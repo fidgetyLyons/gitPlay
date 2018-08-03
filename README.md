@@ -1,4 +1,4 @@
-![Image](boxertocat_octodex.jpg =200x200)
+![Image](boxertocat_octodex.jpg)
 
 Fighting with Git!
 ======
