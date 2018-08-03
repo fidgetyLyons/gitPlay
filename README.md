@@ -14,7 +14,7 @@ Playing around with Git
   * git status //current state of working tree
   * git log //log of commits
 
-  Doug's procedure :
+  **Doug's procedure :**
   * git init
   * [make changes]
   * git add > commit
@@ -24,7 +24,7 @@ Playing around with Git
 ## Working w/ remote repo
 
   * git clone <url OR path to local directory> <where to clone>
-    * ex: clone https://www.github.com/fidgetylyons/gitPlay . //clone gitPlay from my repo to current directory
+    * ex: git clone https://www.github.com/fidgetylyons/gitPlay . //clone gitPlay from my repo to current directory
   * git remote -v //verbose option shows remote url after name
   * git branch -a //all option shows both remote-tracking branches and local branches
   * git remote add origin https://github.com/fidgetylyons //add remote repo
