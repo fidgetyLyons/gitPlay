@@ -1,3 +1,5 @@
+![Image](https://octodex.github.com/images/boxertocat_octodex.jpg =250x250)
+
 Playing around with Git
 ======
 
@@ -6,6 +8,7 @@ Playing around with Git
   * git init //add new .git folder and begin tracking changes
   * git config --global user.name "NAME GOES HERE" //to set name for user config
   * git config --global user.email "email@email.com"  //to set email
+  * git config --list //to view current config settings
   * touch .gitignore //create your ignore file
   * git add .gitignore //add to index
   * git reset //reset contents of index
