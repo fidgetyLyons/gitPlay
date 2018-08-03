@@ -1,6 +1,6 @@
-![Image](https://octodex.github.com/images/boxertocat_octodex.jpg =250x250)
+![Image](boxercat_octodex.jpg =200x200)
 
-Playing around with Git
+Fighting with Git!
 ======
 
 ## Basic creation/working commands
