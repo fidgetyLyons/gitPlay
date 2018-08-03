@@ -49,4 +49,4 @@ Playing around with Git
 ---
 More to come soon, wish me luck!
 
-![Image](buckleUp.jpeg "Me, preparing to push")
+![Image](buckleUp.jpeg "Me, pushing to master")
