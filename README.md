@@ -1,4 +1,4 @@
-<img src="boxertocat_octodex.jpg" width="100">
+<img src="boxertocat_octodex.jpg" width="100" align="middle">
 
 Fighting with Git!
 ======
