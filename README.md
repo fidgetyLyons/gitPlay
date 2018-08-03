@@ -54,6 +54,5 @@ Fighting with Git!
 ---
 More to come soon, wish me luck!
 
-<img src="buckleUp.jpeg" width="100" align="middle" alt="Me, pushing to master">
+<img src="buckleUp.jpeg" width="250" align="middle" alt="Me, pushing to master">
 
-![Image](buckleUp.jpeg "Me, pushing to master")
